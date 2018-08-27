@@ -1,3 +1,6 @@
+React js steakhouse Project where i converted html templates to reactjs template.
+
+
 Step 1 - Create the Root Folder
       -C:\Users\username\Desktop>mkdir reactApp
       -C:\Users\username\Desktop\reactApp>npm init
